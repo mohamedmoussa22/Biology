@@ -1,0 +1,73 @@
+# depslib dependency file v1.0
+1544538053 source:e:\second year\programming ii\programs\ass_4\include\codonstable.h
+	<iostream>
+	<fstream>
+	<cstring>
+
+1544799390 source:e:\second year\programming ii\programs\ass_4\include\dna.h
+	"Sequence.h"
+	"RNA.h"
+	<cstring>
+
+1544810839 e:\second year\programming ii\programs\ass_4\include\sequence.h
+	<cstring>
+	<iostream>
+
+1544805269 e:\second year\programming ii\programs\ass_4\include\rna.h
+	"Sequence.h"
+	"Protein.h"
+	"CodonsTable.h"
+	"DNA.h"
+
+1544805269 e:\second year\programming ii\programs\ass_4\include\protein.h
+	"Sequence.h"
+	"DNA.h"
+
+1544799390 e:\second year\programming ii\programs\ass_4\include\dna.h
+	"Sequence.h"
+	"RNA.h"
+	<cstring>
+
+1544538053 e:\second year\programming ii\programs\ass_4\include\codonstable.h
+	<iostream>
+	<fstream>
+	<cstring>
+
+1544805269 source:e:\second year\programming ii\programs\ass_4\include\protein.h
+	"Sequence.h"
+	"DNA.h"
+
+1544805269 source:e:\second year\programming ii\programs\ass_4\include\rna.h
+	"Sequence.h"
+	"Protein.h"
+	"CodonsTable.h"
+	"DNA.h"
+
+1544810839 source:e:\second year\programming ii\programs\ass_4\include\sequence.h
+	<cstring>
+	<iostream>
+
+1544810839 source:e:\second year\programming ii\programs\ass_4\main.cpp
+	<iostream>
+	"CodonsTable.h"
+	"DNA.h"
+	"Sequence.h"
+	"RNA.h"
+	"Protein.h"
+
+1544812476 source:e:\second year\programming ii\programs\ass_4\src\dna.cpp
+	"DNA.h"
+	<iostream>
+
+1544813357 source:e:\second year\programming ii\programs\ass_4\src\protein.cpp
+	"Protein.h"
+
+1544812476 source:e:\second year\programming ii\programs\ass_4\src\rna.cpp
+	"RNA.h"
+
+1544810875 source:e:\second year\programming ii\programs\ass_4\src\sequence.cpp
+	"Sequence.h"
+
+1544799762 source:e:\second year\programming ii\programs\ass_4\src\codonstable.cpp
+	"CodonsTable.h"
+
